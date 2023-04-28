@@ -5,5 +5,4 @@ This code works by fitting the parameters of two lognormal distributions in orde
 
 Note that it is very important to adapt the bounds to your particle size distributions!
 
---
 Can be adapted to split or fit unimodal or multimodal distributions. 
